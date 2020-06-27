@@ -6,14 +6,14 @@ This CRUD Web App has been built based in the [Build a CRUD Web App With Python 
 
 # Table of Contents
 
-- [] Prerequisites
-- [] Database Setup
-- [] Models
-- [] Migration
-- [] Blueprints
-- [] Home Blueprint
-- [] Auth Blueprint
-- [] Conclusion 
+- [ ] Prerequisites
+- [ ] Database Setup
+- [ ] Models
+- [ ] Migration
+- [ ] Blueprints
+- [ ] Home Blueprint
+- [ ] Auth Blueprint
+- [ ] Conclusion 
 
 * The before table of contents currently has the same structure of the original article writted by [Mbithe Nzomo](https://github.com/mbithenzomo/), as the project evolves, it may or may not change.
 
